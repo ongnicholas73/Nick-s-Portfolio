@@ -58,3 +58,6 @@ body {
 .section-card-container {
   display: flex;
 }
+.card {
+  margin: 0 61px;
+}
