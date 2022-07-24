@@ -1,0 +1,60 @@
+#title-1 {
+  display: flex;
+  justify-content: flex-start;
+  margin-left: 57px;
+  margin-top: 135px;
+  font-size: 80px;
+  margin-bottom: -32px;
+  font-family: "Lobster", cursive;
+  color: #ffffff;
+}
+
+#title-2 {
+  display: flex;
+  justify-content: flex-start;
+  margin-left: 57px;
+  font-size: 80px;
+  margin-bottom: -32px;
+  font-family: "Lobster", cursive;
+  color: #ffffff;
+}
+
+#title-3 {
+  display: flex;
+  justify-content: flex-start;
+  margin-left: 57px;
+  font-size: 80px;
+  font-family: "Lobster", cursive;
+  color: #ffffff;
+}
+
+.button-link-to-guessing-game {
+  display: flex;
+  justify-content: center;
+}
+
+.section-guessing-game-card {
+  display: flex;
+  margin-top: 76px;
+  margin-left: 60px;
+}
+
+.section-WeatherView-card {
+  display: flex;
+  margin-top: 76px;
+  margin-left: 60px;
+}
+
+.card-title {
+  display: flex;
+  justify-content: center;
+}
+
+html,
+body {
+  background: #1d1d1d;
+}
+
+.section-card-container {
+  display: flex;
+}
