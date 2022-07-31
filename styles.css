@@ -57,7 +57,17 @@ body {
 
 .section-card-container {
   display: flex;
+  margin: auto;
 }
+
+.section-card-main-container {
+  display: flex;
+}
+
 .card {
-  margin: 0 61px;
+  margin: 0 72px;
+}
+
+.footer {
+  margin-top: 40px;
 }
