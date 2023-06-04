@@ -58,6 +58,7 @@ body {
 .section-card-container {
   display: flex;
   margin: auto;
+  flex-wrap: wrap;
 }
 
 .section-card-main-container {
@@ -65,7 +66,7 @@ body {
 }
 
 .card {
-  margin: 0 72px;
+  margin:25px;
 }
 
 .footer {
